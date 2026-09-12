@@ -1,0 +1,5 @@
+{
+  "name": "EduGuard: Student Dropout Risk Predictor",
+  "description": "An AI-powered dashboard that predicts student dropout risk based on attendance, marks, and activity, providing actionable insights for educators.",
+  "requestFramePermissions": []
+}
